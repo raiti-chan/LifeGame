@@ -13,6 +13,8 @@ typedef unsigned long long ulong;
 
 ulong nextGeneration(ulong bord);
 
+ulong nextGenerationV2(ulong bord);
+
 ulong randULong();
 
 void outBord(ulong bord);
